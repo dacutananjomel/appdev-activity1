@@ -1,0 +1,7 @@
+{
+  "name": "dacutanan",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
